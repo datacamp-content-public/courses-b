@@ -40,3 +40,20 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: f4df6b8d6b
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+mobile_ data
+```
